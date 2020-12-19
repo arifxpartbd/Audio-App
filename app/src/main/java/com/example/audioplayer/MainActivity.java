@@ -3,6 +3,7 @@ package com.example.audioplayer;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
@@ -17,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
 
         gitbutton=findViewById(R.id.new_gitId);
 
+        gitbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                gitbutton.setText("Ok");
+            }
+        });
     }
 }
