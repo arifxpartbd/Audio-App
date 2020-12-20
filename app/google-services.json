@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356522815200",
+    "project_id": "audio-player-8f941",
+    "storage_bucket": "audio-player-8f941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356522815200:android:b23a3b574a77abd6b12a85",
+        "android_client_info": {
+          "package_name": "com.example.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356522815200-vvl97umr681tg0p01598hah0fhl38j7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUh4WAoD3EiYBsnFp6DfEW8wMPp5ZnZ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356522815200-vvl97umr681tg0p01598hah0fhl38j7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
